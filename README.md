@@ -1,14 +1,14 @@
  ## Pedro Furtado
  <tr>
-  <td>
+ 
      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-        furtado-engcomp/)](https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/) 
-  </td>
+ 
 
-  <td>
+ 
    <a href="https://reactjs.org/" target="_blank">
     <imgsrc="https://img.shields.io/badge/REACT-JS%20LIBRARY-59afc5?style=for-the-badge&logo=react" alt="react">
    </a>
-  </td>
+
  </tr>
 
 
