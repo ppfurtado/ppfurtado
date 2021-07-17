@@ -1,8 +1,8 @@
- ## Pedro Furtado
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/)](https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/) 
  
 ## `console.log("constructing...");`
-My name is *Pedro Furtado*, and I'm from Brazil. Ii've been studying Front-End Developer (mainly with *ReactJs* and *React Native*).
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am *Pedro Furtado*</h1>
+.Ii've been studying Front-End Developer (mainly with *ReactJs* and *React Native*).
 
 ## 🚀💻 Technologies & Tools
 
