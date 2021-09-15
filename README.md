@@ -2,7 +2,7 @@
  
 ## `console.log("constructing...");`
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Pedro Furtado</h1>
-Front End Developer, Ii've been studying Front-End Developer (mainly with ReactJs, React Native and Java).
+Front End Developer, Ii've been studying Front-End and Back-End Developer  (mainly with ReactJs, React Native and Java).
 
 ## 🚀💻 Technologies & Tools
 
