@@ -1,19 +1,75 @@
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/)](https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/) 
- 
-## `console.log("constructing...");`
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Pedro Furtado</h1>
-Front End Developer, Ii've been studying Front-End and Back-End Developer  (mainly with ReactJs, React Native and Java).
+<h1 align="center">
+  Olá! Eu sou o Pedro Furtado 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<p align="center">
+  <em>Especialista Back-End Java focado em ecossistemas corporativos</em>
+</p>
 
-## 🚀💻 Technologies & Tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  </p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ppfurtado&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppfurtado&hide=TeX&layout=compact)
+### 👨‍💻 Sobre Mim
+
+<p align="justify">
+  Sou um <strong>Desenvolvedor Back-End</strong> com vasta experiência no ecossistema <strong>Java</strong>. Minha expertise se concentra nos frameworks <strong>Spring Boot</strong> e <strong>Quarkus</strong> para o desenvolvimento de microsserviços e APIs RESTful de alta performance. Tenho sólida vivência com uma gama diversificada de bancos de dados, incluindo ambientes corporativos com <strong>Oracle</strong> e <strong>SQL Server</strong>, além de soluções open-source como <strong>PostgreSQL</strong> e <strong>MySQL</strong>.
+</p>
+<p align="justify">
+  Embora minha especialização seja o back-end, possuo proficiência no desenvolvimento front-end com <strong>TypeScript</strong>, utilizando frameworks modernos como <strong>Angular</strong> e <strong>React</strong>. Essa visão <em>full-cycle</em> me permite arquitetar soluções mais coesas e colaborar de forma eficaz com equipes de front-end para entregar produtos de excelência.
+</p>
+
+<p align="justify">
+  🌱 Atualmente, estou focado em padrões de arquitetura reativa com Quarkus e otimização de performance em ambientes multi-banco. <br>
+  💬 Pergunte-me sobre: Java (Spring Boot, Quarkus), Arquitetura de Microsserviços, SQL (Oracle, SQL Server), Angular e TypeScript. <br>
+  📫 Como me encontrar: <a href="mailto:furtado.pedropaulo@gmail.com">furtado.pedropaulo@gmail.com</a> ou pelo <a href="https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/">LinkedIn</a>.
+</p>
+
+---
+
+### 🚀 Minha Stack de Tecnologias
+
+<p align="center">
+  <strong>Back-End (Java Ecosystem):</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus">
+</p>
+
+<p align="center">
+  <strong>Bancos de Dados:</strong><br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<p align="center">
+  <strong>Front-End (Vivência e Colaboração):</strong><br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+<p align="center">
+  <strong>Ferramentas & DevOps:</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+---
+
+### 📈 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppfurtado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppfurtado&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,tex"/>
+</p>
+
+---
