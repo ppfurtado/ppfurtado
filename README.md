@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p align="center">
-  <em>Especialista Back-End Java focado em ecossistemas corporativos</em>
+  <em>Especialista Back-End Java focado em ecossistemas corporativos e soluções cloud-native.</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <p align="justify">
   🌱 Atualmente, estou focado em padrões de arquitetura reativa com Quarkus e otimização de performance em ambientes multi-banco. <br>
   💬 Pergunte-me sobre: Java (Spring Boot, Quarkus), Arquitetura de Microsserviços, SQL (Oracle, SQL Server), Angular e TypeScript. <br>
-  📫 Como me encontrar: <a href="mailto:furtado.pedropaulo@gmail.com">furtado.pedropaulo@gmail.com</a> ou pelo <a href="https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/">LinkedIn</a>.
+  📫 Como me encontrar: <a href="mailto:seu-email-aqui@dominio.com">seu-email-aqui@dominio.com</a> ou pelo <a href="https://www.linkedin.com/in/pedro-paulo-furtado-engcomp/">LinkedIn</a>.
 </p>
 
 ---
@@ -35,7 +35,6 @@
 
 <p align="center">
   <strong>Back-End (Java Ecosystem):</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus">
 </p>
@@ -60,7 +59,13 @@
   <strong>Ferramentas & DevOps:</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">  
 </p>
 
 ---
